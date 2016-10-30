@@ -1,7 +1,4 @@
-# 2016fallcpa
-2016fall 計算機程式課程一甲評量倉儲
+# 作業&影片
+如何使用近端&遠端，並且使用git clone以及git push
 
-https://mdecourse.github.io/2016fallcpa
-
-https://mdecourse.github.io/2016fallcpa/blog
-
+https://www.youtube.com/watch?v=Zd6Gu13Iips

@@ -102,7 +102,7 @@
 <v t="yen.20161016024407.7"><vh>Github 倉儲拉回請求</vh></v>
 </v>
 </v>
-<v t="leo.20161013184753.1"><vh>各式內容引用範例</vh>
+<v t="leo.20161013184753.1" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20161013184813.1" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20161013184813.2"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -134,10 +134,11 @@
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
 <v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
+<v t="leo.20161031155740.1"><vh>@edit 20161000.md</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
+<v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -365,7 +366,7 @@ print("hello")
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [s40523230](http://chiamingyen.github.io/kmolab/blog/)
+Created by [s40523230](http://s40523230.github.io/blog/)
 &lt;/small&gt;
 
 [甲班計算機程式課程網誌](blog/index.html)
